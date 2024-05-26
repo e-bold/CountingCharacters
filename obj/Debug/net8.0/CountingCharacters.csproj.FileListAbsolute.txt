@@ -1,0 +1,15 @@
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\bin\Debug\net8.0\CountingCharacters.exe
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\bin\Debug\net8.0\CountingCharacters.deps.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\bin\Debug\net8.0\CountingCharacters.runtimeconfig.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\bin\Debug\net8.0\CountingCharacters.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\bin\Debug\net8.0\CountingCharacters.pdb
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\obj\Debug\net8.0\CountingCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\obj\Debug\net8.0\CountingCharacters.AssemblyInfoInputs.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\obj\Debug\net8.0\CountingCharacters.AssemblyInfo.cs
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\obj\Debug\net8.0\CountingCharacters.csproj.CoreCompileInputs.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\obj\Debug\net8.0\CountingCharacters.sourcelink.json
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\obj\Debug\net8.0\CountingCharacters.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\obj\Debug\net8.0\refint\CountingCharacters.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\obj\Debug\net8.0\CountingCharacters.pdb
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\obj\Debug\net8.0\CountingCharacters.genruntimeconfig.cache
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\csharp-web-dev-examples\ChapterExamples\chapter-three\CountingCharacters\CountingCharacters\obj\Debug\net8.0\ref\CountingCharacters.dll
