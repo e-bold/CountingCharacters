@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountingCharacters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aa44c6d35ae2db75e5ea7bfff0a0f27882734d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountingCharacters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountingCharacters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
